@@ -1,5 +1,25 @@
+# Data directories
 /src/data
 /src/data_partical
+/data/
+/dataset/
+/datasets/
 
-/tmp
-__pycache__
+
+
+
+
+# Python
+__pycache__/
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
